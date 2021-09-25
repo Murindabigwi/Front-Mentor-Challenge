@@ -1,0 +1,51 @@
+body{
+    background-color: hsl(225, 100%, 94%);
+}
+
+h5{
+    font-weight: 900;
+}
+
+h6{
+    font-weight: 700;
+}
+
+.card-text{
+    font-size: 16px;
+    color: gray;
+}
+
+.card-one{
+    padding: 5%;
+}
+.mycard{
+    text-align: center;
+    font-family: 'Red Hat Display', sans-serif;
+
+}
+
+.music-icon{
+    padding-top: 35%;
+    background-color: hsl(225, 100%, 94%) ;
+    border-radius: 100%;
+    width: 45px;
+    height: 45px;
+}
+
+.button-one{
+    font-size: 16px;
+}
+
+.pricing{
+    text-align: left;
+}
+
+.pricing-button{
+    background-color:  hsl(225, 100%, 98%);
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+.card-padding{
+    margin-top: 7%;
+}
