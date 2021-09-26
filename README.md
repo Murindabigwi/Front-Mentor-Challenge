@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Murindabigwi/Front-Mentor-Challenge)
+- Live Site URL: (https://murindabigwi.github.io/Front-Mentor-Challenge/)
 
 ## My process
 
@@ -42,8 +42,7 @@ Am still a beginner so the road a head is still long. I stil have a lot to cover
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/MURINDABGWI David/@Murindabigwi)
+- Website - (https://github.com/Murindabigwi/Front-Mentor-Challenge)
+- Frontend Mentor - (https://www.frontendmentor.io/MURINDABGWI David/@Murindabigwi)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
